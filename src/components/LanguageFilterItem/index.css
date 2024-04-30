@@ -1,0 +1,20 @@
+.filter-container {
+  padding: 5px 10px;
+  margin-inline: 20px;
+}
+
+.filter-button {
+  background-color: #ffffff;
+  border: none;
+  font-size: 14px;
+  font-weight: bold;
+  color: #0f172a;
+  cursor: pointer;
+  padding: 5px 15px;
+}
+
+.selected {
+  border: 1px solid #0284c7;
+  border-radius: 15px;
+  color: #0284c7;
+}
